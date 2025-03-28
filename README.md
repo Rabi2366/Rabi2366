@@ -1,6 +1,6 @@
 ![logo](https://github.com/Rabi2366/Rabi/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Rabi Narayan Swain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend Data Analysis from India</h3>
 
 <img aling="right" alt="Data" width="400" src="https://th.bing.com/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&w=315&h=198&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
 
