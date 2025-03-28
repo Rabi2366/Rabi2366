@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/naray72470" target="blank"><img src="https://img.shields.io/twitter/follow/naray72470?logo=twitter&style=for-the-badge" alt="naray72470" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Excel, SQL, Power BI, Python**
+- 🌱 I’m currently learning **Advance Excel, SQL, Power BI, Python, Looker Studio, Tabealu**
 
 - 📫 How to reach me **inrabi3@gmail.com**
 
